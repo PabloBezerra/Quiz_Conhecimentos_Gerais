@@ -710,6 +710,6 @@ export const allQuests = [
         "2": "Alan Turing",
         "3": "John von Neumann",
         "4": "Steve Jobs",
-        "correto": "1"
+        "correto": "2"
     },
 ]
